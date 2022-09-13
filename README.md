@@ -1,4 +1,6 @@
 # EqualLessGreat
+## Information
+#### This repository was created for documentation on how Java works, and is to log all templates and information about determining if values are equal to, less than, or greater than a provided integer in Java. Infrared Studios will be using this technology in their projects and do appreciate contributions.
 ## Setup
 #### To use, make sure you have JAVA downloaded, you can download that at the Java Oracle website. Download this repository. Make sure you open the command line in the directory that the EqualLessGreat.java file is in.
 ---
