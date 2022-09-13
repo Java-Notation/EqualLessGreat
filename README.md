@@ -6,7 +6,7 @@
 #### To execute the script, type in the command line that the EqualLessGreat.java file is in:
 `java EqualLessGreat.java`
 #### After doing that you will be prompted with
-'Enter any number (-2147483648 to 2147483647):'
+`Enter any number (-2147483648 to 2147483647):`
 #### Type any number, you will recieve an output based on if your number is greater than, less than, or equal to 10. Here is a few examples:
 #### **INPUT:**
 `30`
