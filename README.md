@@ -27,3 +27,8 @@
 `-5`
 #### **OUTPUT:**
 `The number you entered (-5) is less than 10.`
+## Support
+#### The software supports the following:
+- [x] Integers above 2147483648.
+- [x] Integers below -2147483648.
+- [x] Equations.
